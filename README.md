@@ -61,7 +61,7 @@ https://meril2026.github.io/comicverse-store/
 
 ## 🛒 Product Details Page
 
-![Product Page](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/assets/product-page.jpg)
+![Product Page](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/Screenshot_20260513_211044.jpg)
 
 ---
 
