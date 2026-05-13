@@ -55,7 +55,7 @@ https://meril2026.github.io/comicverse-store/
 
 ## 📅 Release Calendar & Footer
 
-![Calendar](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/assets/calendar.jpg)
+![Calendar](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/Screenshot_20260513_211059.jpg)
 
 ---
 
