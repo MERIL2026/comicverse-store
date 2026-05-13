@@ -37,7 +37,7 @@ https://meril2026.github.io/comicverse-store/
 
 ## 🏠 Homepage Hero Section
 
-![Hero Section](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/assets/hero.jpg)
+![Hero Section](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/Screenshot_20260513_211022.jpg)
 
 ---
 
