@@ -49,7 +49,7 @@ https://meril2026.github.io/comicverse-store/
 
 ## 🔥 Trending & Manga Collection
 
-![Trending](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/assets/trending.jpg)
+![Trending](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/Screenshot_20260513_211112.jpg)
 
 ---
 
