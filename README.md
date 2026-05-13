@@ -43,7 +43,7 @@ https://meril2026.github.io/comicverse-store/
 
 ## 🎭 Genre & Product Collection
 
-![Collection](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/assets/collection.jpg)
+![Collection](https://raw.githubusercontent.com/MERIL2026/comicverse-store/main/Screenshot_20260513_211035.jpg)
 
 ---
 
